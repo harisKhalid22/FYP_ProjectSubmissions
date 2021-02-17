@@ -1,11 +1,11 @@
 # FYP_ProjectSubmissions
 
-##FYPI
+#FYPI
 - Project Discussion
 - Project Ideas
 - Project Proposal
 - Software Requirements Specification (SRS)
 
-##FYPII
+#FYPII
 - Progress Report
 - Final Submission
