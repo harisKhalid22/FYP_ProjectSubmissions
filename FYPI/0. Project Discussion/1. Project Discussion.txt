@@ -1,0 +1,45 @@
+Presentation Points:
+- people are unable to distinguish the needy one.
+- needy people don't know what to do and who to contact. 
+	Accept / Reject - Under Verification (pending) (In Progress)	-	Admin approve karega user ko show nhi hoga jab tk approval nhi hoga.
+		Example: Olx
+	Running.	-	Status bar with %
+	Completed.
+
+While LSH performs:
+- Target audience - needy person.
+	No specific target audience exist.
+
+- Uniqueness:	
+	We got cases where Selanionly had list of categories and no cases for verification. 
+
+The above tasks are:
+- Performed by personal relatives or friends
+	No one asked them because of ABASHMENT (شرمندگی)
+
+- continuely donate karaingy log - cases hawalay kardain backend se verify karty raho ap unko
+- Priority base, case to case	-	based on seasons
+
+Donation Categories:
+- Donation
+- Sadhaka
+- Zakath
+
+University students -> Aysa nahi hai sirf in do seasons ki baat ho lekin focus in cheezon pe hoga.
+
+- Stucture
+- domain
+	- kiya kiya alag alag sath sath
+	- uml, use case -> actors, activity diagram -> processing, class diagram, flow diagram, state diagram
+	- one by one convert them into code.
+
+Diagrams:
+	- UML Class Diagram
+	- ER Diagram
+	- Use Case -> Actors
+	- Activity Diagram -> Processing
+	- Flow Diagram / State Diagram
+	- One by one convert them into code
+
+If we need to set the Target audience:
+	- make a category of most cases performed by LSH and from priority we extract the cases.

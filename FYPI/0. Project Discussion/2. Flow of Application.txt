@@ -1,0 +1,57 @@
+-> Pages:
+	- Home page	-	showListOfCases.
+	- AboutUs / Services	-	LSH Background history.
+	- Contact	-	link of whatsapp group which is managed by LSH team, facebook and instagram page link's, and email address.
+	- Feedback	-	feedBack with star points and writeAReview.
+	- CaseCompleted -	detailOfCompletedCases.	- Completed. (CLOSED)
+	- UploadCase	-	forNeedyOneToUploadANewCase.
+	- MyInformation	-	containsAllInformationAboutTheUser
+
+-> HomePage: (ListOfCases with priorities (filtered) )
+	-> Accept / Reject - Under Verification (pending) (In Progress)	- Admin approve karega user ko show nhi hoga jab tk approval nhi hoga.	Example:OLX
+	-> CasePage - contains ProceedToPayment button which directed towards the next page - Status bar with % Running.
+				- AmountOfDonation:	
+					- CurrencyType	- PKR, $USD
+				- PaymentMethods
+					- DonationWith	- easypaisa, jazzcash and backTransfer.
+
+---------------------------
+-----USER'S CATEGORIES's---
+---------------------------
+
+-> UploadCase (Needy):
+	- Registration - must
+	- Case going to post
+	- caseCategory, description also mention donation category: Donation, Sadhaka or Zakath, 
+		targetAmount, CNIC no, address, profession, houseType: Owned/Rented and duration	-	integratedWithForm
+	- done		-	underVerification
+
+-> ProceedToPayment (Donor): 
+	- listOfCase on HomeScreen
+	- User shall be able to review it's charity.
+	- Donation	-	addToCart option.
+	- DonationWith	-	easypaisa, jazzcash and backTransfer.
+
+-> Admin (LSH ManagementTeam):
+	- gotFormWithHalfValuesFilled	-	pdf formatted
+	- Approved / Rejected		-	notification
+	- If approved then posted on screen with arrangement of priorities	-	sortByFilter
+
+---------------------------
+-----LOGIN/REGISTRATION----
+---------------------------
+
+- Login:
+	- UserName and Password
+	- Forget Password
+		- Two ways of recognization -> email or mobile
+		- Get a code in 30 seconds
+		- Verify code 
+		- Enter new password
+			- match and proceed
+
+- Registration:
+	- Name, Password, emailAddress, mobile number - verificationUsingCode
+
+- GoldPlatting:
+	- bloodGroup
